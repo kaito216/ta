@@ -48,7 +48,8 @@ a{
   margin:0 auto;
 }
 .top-wrapper{
-  background-image:url(tanaka-img/tanakadesu/headermeko.jpg);
+  background-image:url(
+https://github.com/kaito216/ta/blob/master/headermeko.jpg?raw=true);
   background-size:cover;
  color:white;
  padding:150px 70px ;
@@ -58,7 +59,8 @@ padding-top: 30px;
 
 }
 .main-wrapper{
-  background-image:url(tanaka-img/tanakadesu/haikei.jpg);
+  background-image:url(https://github.com/kaito216/ta/blob/master/haikei.jpg?raw=true
+);
   text-align: center;
 }
 img{
