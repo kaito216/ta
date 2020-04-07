@@ -1,0 +1,83 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+header{
+  background-color: rgba(0,0,0,0.8);
+  width:100%;
+  height:80px;
+  position:fixed;
+  z-index:10;
+}
+.header-logo{
+  color:white;
+  font-size:34px;
+  float:left;
+ margin-left:10px;
+  margin-top:10px;
+}
+.fa-phone{
+  color:red;
+  width:120px;
+  margin-left:10px;
+}
+.header-list li{
+  float:left;
+  color:white;
+  font-size:25px;
+  margin:20px 40px;
+}
+a{
+  color:white;
+}
+.container{
+  margin:0 auto;
+}
+.top-wrapper{
+  background-image:url(tanaka-img/tanakadesu/headermeko.jpg);
+  background-size:cover;
+ color:white;
+ padding:150px 70px ;
+}
+.top-wrapper h1{
+padding-top: 30px;
+
+}
+.main-wrapper{
+  background-image:url(tanaka-img/tanakadesu/haikei.jpg);
+  text-align: center;
+}
+img{
+  width:200px;
+}
+
+
+footer{
+  background-color:green;
+  padding:20px;
+  height:100px;
+}
+.footer-logo{
+  float:left;
+  font-size:30px;
+}
+.footer-list{
+  float:right;
+}
+footer li{
+  margin-bottom:20px;
+}
